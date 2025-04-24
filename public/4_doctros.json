@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7,
+    "name": "Tanvir Hasan",
+    "specialization": "Environmental Law",
+    "status": "Available",
+    "experience": "4+ Years Experience",
+    "license": "LAW-BD 12345600",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 8,
+    "name": "Arifa Chowdhury",
+    "specialization": "Intellectual Property Lawyer",
+    "status": "Busy",
+    "experience": "9+ Years Experience",
+    "license": "LAW-BD 98451232",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 9,
+    "name": "Mahmud Alam",
+    "specialization": "Tax Lawyer",
+    "status": "Available",
+    "experience": "11+ Years Experience",
+    "license": "LAW-BD 55321233",
+    "image": "https://via.placeholder.com/100"
+  },
+  {
+    "id": 10,
+    "name": "Nabila Khatun",
+    "specialization": "Cyber Law Expert",
+    "status": "Available",
+    "experience": "3+ Years Experience",
+    "license": "LAW-BD 78634123",
+    "image": "https://via.placeholder.com/100"
+  }
+]
