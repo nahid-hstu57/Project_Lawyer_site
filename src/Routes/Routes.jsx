@@ -11,33 +11,37 @@ import DoctorDetails from "../Pages/Home/DoctorDetails";
 import Blogs from "../Pages/Blogs";
 import Bookings from "../Pages/Home/Bookings";
 
-export const router = createBrowserRouter([
+export const router = createBrowserRouter(
+  [
     {
       path: "/",
       Component: Root,
-      errorElement: <ErrorPage></ErrorPage> ,
-      children:[
+      errorElement: <ErrorPage></ErrorPage>,
+      children: [
         {
-            index: true,
-            loader: ()=>fetch('/6_doctros.json'),
-            path: "/home",
-            Component:Home ,  
+          index: true,
+          loader: () => fetch('/6_doctros.json'),
+          path: "/",
+          Component: Home,
         },
         {
-          path:'/DoctorDetails/:id',
-          loader: ()=>fetch('/6_doctros.json'),
+          path: '/DoctorDetails/:id',
+          loader: () => fetch('/6_doctros.json'),
           Component: DoctorDetails,
         },
         {
-          path:'/bookings',
-          loader: ()=>fetch('/6_doctros.json'),
+          path: '/bookings',
+          loader: () => fetch('/6_doctros.json'),
           Component: Bookings,
         },
         {
-          path:'/blogs',
+          path: '/blogs',
           Component: Blogs,
         }
-        
       ]
     },
-  ]); 
+  ],
+  {
+    basename: "/Project_Lawyer_site",
+  }
+);
