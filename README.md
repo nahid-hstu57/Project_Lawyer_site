@@ -58,19 +58,18 @@ npm run deploy              # builds and publishes the live site
 
 ## 📸 Screenshots
 
-> Add screenshots to a `/screenshots` folder in the repo and reference them below.
 
 | Home | Lawyer Listing |
 |------|----------------|
-| ![Home](./screenshots/home.png) | ![Lawyers](./screenshots/lawyers.png) |
+| ![Home](./screenshots/3.png) | ![Lawyers](./screenshots/4.png) |
 
 | Lawyer Profile | My Bookings |
 |----------------|-------------|
-| ![Profile](./screenshots/profile.png) | ![Bookings](./screenshots/bookings.png) |
+| ![Profile](./screenshots/5.png) | ![Bookings](./screenshots/1.png) |
 
 | Blogs |
 |-------|
-| ![Blogs](./screenshots/blogs.png) |
+| ![Blogs](./screenshots/2.png) |
 
 ## 🚀 Roadmap / Future Improvements
 
