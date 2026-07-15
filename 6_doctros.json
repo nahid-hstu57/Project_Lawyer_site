@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Awlad Hossain",
+    "specialization": "Criminal Law Expert",
+    "status": "Available",
+    "experience": "5+ Years Experience",
+    "license": "LAW-BD 12451254",
+    "image": "/download (4).png",
+    "consultationFee": 2500,
+    "availableDays": ["Sunday", "Tuesday", "Friday"]
+  },
+  {
+    "id": 2,
+    "name": "Maria Rahman",
+    "specialization": "Family Law Specialist",
+    "status": "Available",
+    "experience": "8+ Years Experience",
+    "license": "LAW-BD 89213412",
+    "image": "/download (8).png",
+    "consultationFee": 3000,
+    "availableDays": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 3,
+    "name": "Rezaul Karim",
+    "specialization": "Civil Litigation Lawyer",
+    "status": "Busy",
+    "experience": "10+ Years Experience",
+    "license": "LAW-BD 76351289",
+    "image": "/download (7).png",
+    "consultationFee": 3500,
+    "availableDays": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": 4,
+    "name": "Nafisa Sultana",
+    "specialization": "Corporate Lawyer",
+    "status": "Available",
+    "experience": "6+ Years Experience",
+    "license": "LAW-BD 56127843",
+    "image": "/download (6).png",
+    "consultationFee": 2800,
+    "availableDays": ["Monday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 5,
+    "name": "Kamrul Islam",
+    "specialization": "Human Rights Lawyer",
+    "status": "Available",
+    "experience": "12+ Years Experience",
+    "license": "LAW-BD 32145678",
+    "image": "/download (5).png",
+    "consultationFee": 4000,
+    "availableDays": ["Wednesday", "Thursday", "Friday"]
+  },
+  {
+    "id": 6,
+    "name": "Farhana Ahmed",
+    "specialization": "Immigration Law Specialist",
+    "status": "Unavailable",
+    "experience": "7+ Years Experience",
+    "license": "LAW-BD 74561238",
+    "image": "/download (4).png",
+    "consultationFee": 3200,
+    "availableDays": ["Sunday", "Monday"]
+  },
+  {
+    "id": 7,
+    "name": "Rezaul Karim",
+    "specialization": "Civil Litigation Lawyer",
+    "status": "Busy",
+    "experience": "10+ Years Experience",
+    "license": "LAW-BD 76351289",
+    "image": "/download (7).png",
+    "consultationFee": 3500,
+    "availableDays": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": 8,
+    "name": "Nafisa Sultana",
+    "specialization": "Corporate Lawyer",
+    "status": "Available",
+    "experience": "6+ Years Experience",
+    "license": "LAW-BD 56127843",
+    "image": "/download (6).png",
+    "consultationFee": 2800,
+    "availableDays": ["Monday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 9,
+    "name": "Kamrul Islam",
+    "specialization": "Human Rights Lawyer",
+    "status": "Available",
+    "experience": "12+ Years Experience",
+    "license": "LAW-BD 32145678",
+    "image": "/download (5).png",
+    "consultationFee": 4000,
+    "availableDays": ["Wednesday", "Thursday", "Friday"]
+  },
+  {
+    "id": 10,
+    "name": "Farhana Ahmed",
+    "specialization": "Immigration Law Specialist",
+    "status": "Unavailable",
+    "experience": "7+ Years Experience",
+    "license": "LAW-BD 74561238",
+    "image": "/download (4).png",
+    "consultationFee": 3200,
+    "availableDays": ["Sunday", "Monday"]
+  },
+  {
+    "id": 11,
+    "name": "Kamrul Islam",
+    "specialization": "Human Rights Lawyer",
+    "status": "Available",
+    "experience": "12+ Years Experience",
+    "license": "LAW-BD 32145678",
+    "image": "/download (5).png",
+    "consultationFee": 4000,
+    "availableDays": ["Wednesday", "Thursday", "Friday"]
+  },
+  {
+    "id": 12,
+    "name": "Farhana Ahmed",
+    "specialization": "Immigration Law Specialist",
+    "status": "Unavailable",
+    "experience": "7+ Years Experience",
+    "license": "LAW-BD 74561238",
+    "image": "/download (4).png",
+    "consultationFee": 3200,
+    "availableDays": ["Sunday", "Monday"]
+  }
+]
