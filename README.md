@@ -2,6 +2,8 @@
 
 **Law.BD** is a frontend web application where people can browse verified lawyers and book legal appointments online. Built as a first React project, it focuses on clean UI, appointment booking flow, and a simple booking management dashboard.
 
+🔗 **Live Demo:** [https://nahid-hstu57.github.io/Project_Lawyer_site/](https://nahid-hstu57.github.io/Project_Lawyer_site/)
+
 ## ✨ Features
 
 - **Home Page** — Hero banner introducing the platform, and a listing of top-rated lawyers with specialty, experience, license number, and availability status.
@@ -40,6 +42,19 @@ npm run dev
 ```
 
 The app should now be running locally (check your terminal for the local URL).
+
+## 🌐 Deployment
+
+This project is deployed to **GitHub Pages** using the `gh-pages` package. Deployment is **manual** — pushing to `main` only updates the source code, it does not update the live site.
+
+To publish changes:
+
+```bash
+git add .
+git commit -m "your changes"
+git push origin main       # backs up source code
+npm run deploy              # builds and publishes the live site
+```
 
 ## 📸 Screenshots
 
