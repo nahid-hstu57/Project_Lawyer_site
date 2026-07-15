@@ -20,18 +20,18 @@ export const router = createBrowserRouter(
       children: [
         {
           index: true,
-          loader: () => fetch('/6_doctros.json'),
-          path: "/",
+          loader: () => fetch(`${import.meta.env.BASE_URL}6_doctros.json`),
+          path: "/home",
           Component: Home,
         },
         {
           path: '/DoctorDetails/:id',
-          loader: () => fetch('/6_doctros.json'),
+          loader: () => fetch(`${import.meta.env.BASE_URL}6_doctros.json`),
           Component: DoctorDetails,
         },
         {
           path: '/bookings',
-          loader: () => fetch('/6_doctros.json'),
+          loader: () => fetch(`${import.meta.env.BASE_URL}6_doctros.json`),
           Component: Bookings,
         },
         {
@@ -42,6 +42,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/Project_Lawyer_site",
+    basename: import.meta.env.DEV ? "/" : "/Project_Lawyer_site",
   }
 );
