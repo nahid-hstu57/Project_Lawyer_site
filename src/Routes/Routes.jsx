@@ -21,7 +21,7 @@ export const router = createBrowserRouter(
         {
           index: true,
           loader: () => fetch(`${import.meta.env.BASE_URL}6_doctros.json`),
-          path: "/home",
+          path: "/",
           Component: Home,
         },
         {
